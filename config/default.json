@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://ilvir:ilvir@mernlearning.ajphg.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://ilvir:ilvir@mernlearning.ajphg.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "secretwordtoken"
 }
