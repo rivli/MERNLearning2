@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://ilvir:ilvir@mernlearning.ajphg.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret": "secretwordtoken"
+    "jwtSecret": "secretwordtoken",
+    "githubClientId": "Iv1.bdea80e16889064c",
+    "githubSecret": "314b6664275778384b3d5303d2c70cdb94d0ad9a"
 }
